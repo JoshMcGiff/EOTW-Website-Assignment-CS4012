@@ -1,4 +1,3 @@
 A1 Web Development Assignment for CS4012
 
-Landing home page - Josh
-Skeleton – header/footer - Josh
+I worked primarily on the landing home page, the overall skeleton and the header/footer for the website. I also added finishing touches to the entire project, to ensure a cohesive site.
